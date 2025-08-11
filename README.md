@@ -41,6 +41,6 @@ Option to save output to a file.
 
 Color-coded terminal output.
 
-https://roadmap.sh/projects/github-user-activity
+
 
 
