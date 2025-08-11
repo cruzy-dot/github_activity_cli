@@ -11,7 +11,7 @@ parser.add_argument("-n", "--number", type=int, default=5, help="Number of event
 args = parser.parse_args()
 
 #calling Github api
-Url = f"https://api.github.com/users/{username}/events"
+Url = f"https://api.github.com/users/{args.username}/events"
 
 
 #Sending get requests to GitHub Api
