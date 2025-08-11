@@ -30,7 +30,6 @@ python main.py <username> [-n NUMBER]
 Arguments
 Argument	Description	Example
 username	GitHub username (required)	cruzy-dot
--n / --number	Number of events to show (optional, default: 5)	-n 10
 
 
 Future Improvements
